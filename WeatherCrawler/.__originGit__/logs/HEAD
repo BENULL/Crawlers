@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 41b879bc919a7bc20d203e7387ad7e5c360f34a5 NULL <ltobenull@gmail.com> 1581747993 +0800	clone: from git@github.com:BENULL/weatherScrapy.git
+41b879bc919a7bc20d203e7387ad7e5c360f34a5 602d56938a5b1f6b01821f6940c1f6992a14ae44 NULL <ltobenull@gmail.com> 1581748383 +0800	commit: scrapy weather data by city name
+602d56938a5b1f6b01821f6940c1f6992a14ae44 8fd4223a25d23463f60d4cc1131fb62a755056fc NULL <ltobenull@gmail.com> 1581748485 +0800	commit: use archive_util to class city to province
+8fd4223a25d23463f60d4cc1131fb62a755056fc e097afd40fe54373716f80b633a78ecd4843b500 NULL <ltobenull@gmail.com> 1581748743 +0800	commit: weather data from 2011 to 2020 archived by province
